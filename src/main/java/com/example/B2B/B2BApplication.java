@@ -2,7 +2,6 @@ package com.example.B2B;
 
 import com.example.B2B.Entities.ERole;
 import com.example.B2B.Entities.Role;
-import com.example.B2B.Entities.clientEntity;
 import com.example.B2B.Repositories.RoleRepo;
 import com.example.B2B.Repositories.clientRepo;
 import org.springframework.beans.factory.annotation.Autowired;
